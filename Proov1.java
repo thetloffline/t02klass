@@ -21,3 +21,10 @@ public class Proov1{
 
 	}
 }
+
+
+/*
+Pikkus: 188.0, Kaal: 85.5 Vanus: 25 Sugu: Mees  BMI: 24.0 sinu vanuses inimese keskmine BMI on 25.5
+Pikkus: 180.0, Kaal: 65.5 Vanus: 31 Sugu: Naine  BMI: 20.0 sinu vanuses inimese keskmine BMI on 27.6
+Pikkus: 170.0, Kaal: 55.5 Vanus: 33 Sugu: Mees  BMI: 19.0 sinu vanuses inimese keskmine BMI on 27.5
+*/
